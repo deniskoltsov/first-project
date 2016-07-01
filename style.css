@@ -7,6 +7,10 @@ html {
   background-color: #ECF0F1;
 }
 
+body {
+	cursor: url('images/cursor.png'), auto;;
+}
+
 div.box {
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
